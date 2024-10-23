@@ -1,0 +1,30 @@
+.container1 {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* width: 1000px; */
+}
+
+.home{
+    margin-top: 30px;
+    padding: 20px;
+}
+
+
+h4 {
+    text-align: center;
+}
+
+Button:hover {
+    font-weight: bolder;
+    background-color: rgb(234, 238, 242);
+}
+
+.cardmain:hover {
+    transform: scale(1.02);
+}
+
+.CardActionArea:hover {
+    background-color: rgb(255, 255, 255);
+}

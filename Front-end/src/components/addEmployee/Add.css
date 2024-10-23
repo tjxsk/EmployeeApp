@@ -1,0 +1,11 @@
+.add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 900px; */
+    margin: 20px 200px 0 200px;
+    /* background-color: rgb(223, 217, 217); */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
